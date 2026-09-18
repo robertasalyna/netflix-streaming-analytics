@@ -38,4 +38,4 @@ Pode consultar a documentação técnica detalhada deste projeto diretamente no 
 ---
 
 ## 🔗 Referência da Base de Dados
-* **Dataset Oficial:** [Kaggle - Netflix Movies and TV Shows (Shivamb)](https://www.kaggle.com/datasets/shivamb/netflix-shows)[cite: 1].
+* **Dataset Oficial:** [Kaggle - Netflix Movies and TV Shows (Shivamb)](https://www.kaggle.com/datasets/shivamb/netflix-shows)
