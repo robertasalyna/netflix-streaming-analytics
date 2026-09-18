@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/768a486f-5a92-4016-848c-e7d851b382e8
 
 ## 📄 Documentação Completa
 Pode consultar a documentação técnica detalhada deste projeto diretamente no link abaixo:
-👉 [Aceder à Documentação Completa no Google Docs](https://docs.google.com/document/d/1uQbA4vFyQlmT8IT0Egtdxh7NeUARdXqNFuwnRmEu8oU/edit?usp=drivesdk)[cite: 9]
+👉 [Aceder à Documentação Técnica (PDF)](./Netflix_Global_Content_Intelligence_Documentation.pdf)
 
 ---
 
